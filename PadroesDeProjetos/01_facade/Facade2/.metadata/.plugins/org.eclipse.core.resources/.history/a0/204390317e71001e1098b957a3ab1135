@@ -1,0 +1,26 @@
+package after.facade;
+
+import after.services.CardService;
+import after.services.PaymentService;
+import after.services.RegisterService;
+import after.services.ReportService;
+import after.services.SecurityService;
+
+public class CallCenterFacade {
+	
+	private CardService cardService;
+	private RegisterService registerService;
+	private ReportService reportService;
+	private PaymentService paymentService;
+	private SecurityService securityService;
+	
+	public CallCenterFacade() {
+		cardService = new CardService();
+		registerService = new RegisterService();
+		reportService = new ReportService(registerService);
+		paymentService = new PaymentService(registerService);
+		securityService = new SecurityService(cardService, registerService);
+		
+	}
+
+}

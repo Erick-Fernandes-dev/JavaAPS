@@ -1,0 +1,28 @@
+package before.services;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Date;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import before.model.Register;
+
+public class RegisterService {
+	
+	private Map<Long, List<Register>> memory;
+	
+	public RegisterService() {
+		
+		memory = new HashMap<Long, List<Register>>();
+		
+		memory.put(11223344L, new ArrayList(Arrays.asList(
+				new Register("McDonalds", 15d, new Date()),
+				new Register("Pizza Hut", 25d, new Date()),
+				new Register("Nike Store", 50d, new Date())
+			)));
+		
+	}
+
+}

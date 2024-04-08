@@ -1,0 +1,10 @@
+
+public class ComputadorFacade {
+	
+	private Cpu cpu = null;
+	private Memoria memoria = null;
+	private HardDrive hardDrive = null;
+	
+	
+
+}

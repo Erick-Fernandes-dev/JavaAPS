@@ -1,0 +1,5 @@
+package before.model;
+
+public class Card {
+
+}

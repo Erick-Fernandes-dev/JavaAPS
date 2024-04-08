@@ -1,0 +1,5 @@
+package isolated.facade;
+
+public class CallCenterNewCardFacade {
+
+}

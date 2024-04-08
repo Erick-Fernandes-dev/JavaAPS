@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/wolf/MinhasFormacoes/APS_2/PadroesDeProjetos/01_facade/Facade2/.metadata/.plugins/org.eclipse.jdt.core
+2507244051.index
+71872961.index

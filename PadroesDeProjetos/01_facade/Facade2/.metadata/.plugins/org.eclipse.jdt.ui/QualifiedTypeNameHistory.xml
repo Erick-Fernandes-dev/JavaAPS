@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="br.com.alura.loja.pedido.acoes.AcaoAposGerarPedido"/>
+    <fullyQualifiedTypeName name="br.com.alura.loja.pedido.acoes.LogDePedido"/>
+    <fullyQualifiedTypeName name="java.beans.beancontext.BeanContextContainerProxy"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="after.services.CardService"/>
+    <fullyQualifiedTypeName name="after.services.RegisterService"/>
+    <fullyQualifiedTypeName name="after.services.ReportService"/>
+    <fullyQualifiedTypeName name="after.services.SecurityService"/>
+    <fullyQualifiedTypeName name="after.services.PaymentService"/>
+    <fullyQualifiedTypeName name="before.model.Card"/>
+    <fullyQualifiedTypeName name="before.model.Register"/>
+    <fullyQualifiedTypeName name="isolated.services.RegisterService"/>
+    <fullyQualifiedTypeName name="isolated.services.ReportService"/>
+    <fullyQualifiedTypeName name="isolated.services.SecurityService"/>
+    <fullyQualifiedTypeName name="isolated.services.CardService"/>
+    <fullyQualifiedTypeName name="isolated.model.Card"/>
+    <fullyQualifiedTypeName name="isolated.model.Register"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>

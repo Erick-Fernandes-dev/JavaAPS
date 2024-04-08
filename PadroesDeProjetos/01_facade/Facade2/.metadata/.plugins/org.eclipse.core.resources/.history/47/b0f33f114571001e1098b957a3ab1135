@@ -1,0 +1,17 @@
+package before.services;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import before.model.Card;
+
+public class CardService {
+	
+	private Map<Long, Card> memory;
+	
+	public CardService() {
+		this.memory = new HashMap<>();
+		memory.put(123456L, new Card(123456, 11223344L));
+	}
+
+}

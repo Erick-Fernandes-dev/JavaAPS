@@ -1,0 +1,14 @@
+<object-stream>
+  <list>
+    <aluno>
+      <matricula>123</matricula>
+      <nome>Rodrigo</nome>
+      <dataNascimento>2000-01-01</dataNascimento>
+    </aluno>
+    <aluno>
+      <matricula>128</matricula>
+      <nome>Erick</nome>
+      <dataNascimento>2002-01-01</dataNascimento>
+    </aluno>
+  </list>
+</object-stream>

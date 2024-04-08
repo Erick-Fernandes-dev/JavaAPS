@@ -1,0 +1,5 @@
+package before.services;
+
+public class ReportService {
+
+}

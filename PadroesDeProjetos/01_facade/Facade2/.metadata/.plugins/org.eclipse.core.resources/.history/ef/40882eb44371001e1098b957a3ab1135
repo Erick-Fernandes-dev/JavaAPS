@@ -1,0 +1,10 @@
+package before.model;
+
+public class Card {
+	
+	private Long userNumber;
+	private Long cardNumber;
+	
+	
+
+}

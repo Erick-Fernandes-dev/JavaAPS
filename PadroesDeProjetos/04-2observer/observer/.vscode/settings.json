@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": ["APS_2/PadroesDeProjetos/04-2observer/observer/src/"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
