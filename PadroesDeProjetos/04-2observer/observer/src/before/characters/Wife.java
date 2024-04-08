@@ -1,4 +1,4 @@
-package before.characters;
+package observer.src.before.characters;
 
 public class Wife {
 

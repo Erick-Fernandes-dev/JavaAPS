@@ -1,4 +1,4 @@
-package after.subject;
+package observer.src.after.subject;
 
 public class Doorman extends Subject {
 

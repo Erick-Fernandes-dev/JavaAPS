@@ -1,6 +1,4 @@
-package after.observers;
-
-
+package observer.src.after.observers;
 
 public class Friend implements Observer {
 

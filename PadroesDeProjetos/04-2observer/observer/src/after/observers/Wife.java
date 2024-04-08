@@ -1,4 +1,4 @@
-package after.observers;
+package observer.src.after.observers;
 
 public class Wife implements Observer {
 

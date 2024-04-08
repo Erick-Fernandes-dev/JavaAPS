@@ -1,4 +1,8 @@
-package after;
+package observer.src.after;
+
+import observer.src.after.observers.Friend;
+import observer.src.after.observers.Wife;
+import observer.src.after.subject.Doorman;
 
 public class Client {
 

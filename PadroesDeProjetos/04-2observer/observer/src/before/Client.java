@@ -1,7 +1,8 @@
-package before;
+package observer.src.before;
 
-import before.characters.Doorman;
-import before.characters.Wife;
+
+import observer.src.before.characters.Doorman;
+import observer.src.before.characters.Wife;
 
 public class Client {
 
